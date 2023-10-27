@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XuranF&layout=compact)](https://github.com/XuranF/github-readme-stats)
 <!--
 **XuranF/XuranF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
