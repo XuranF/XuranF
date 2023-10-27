@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 - My name is Xuran.
 - I’m currently learning Distributed Systems.
 - I'm looking to collaborate on some C/C++ projects.
